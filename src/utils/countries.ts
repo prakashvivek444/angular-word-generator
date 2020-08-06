@@ -1,0 +1,16 @@
+export default [
+    "India",
+    "America",
+    "Russia",
+    "Poland",
+    "Paris",
+    "Japan",
+    "Austrailia",
+    "Norway",
+    "Italy",
+    "Mexico",
+    "Canada",
+    "Congo",
+    "Egypt",
+    "Singapore",
+];
